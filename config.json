@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#2D2D32",
+            "lang-select-color": "#222829",
+            "bg-light": "#1A1A22",
+            "welcome-bonus-bg": "#2D2D32",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#414149",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#F3A557",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#F3A557",
+            "yellow-button": "#B11F14",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#2D2D32",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#2D2D32",
+            "faq-label": "#2D2D32",
+            "bg-footer": "#2D2D32",
+            "copyright": "#e7e7d5",
+            "starColor": "#F3A557",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3385"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3386",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "FezBet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3387",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "FezBet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "FezBet",
+                    "title": "FezBet — Best Online Casino Australia | AU$750 Bonus",
+                    "description": "Play at FezBet Casino Australia with 2000+ licensed pokies, live dealers & AU$750 welcome bonus + 200 Free Spins. Curaçao licensed. Sign up now!\n",
+                    "canonical": "casinofezbet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3388",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinofezbet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3389"
+                },
+                "hero": {
+                    "title": "Australia's Premier Online Casino & Sportsbook",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3390",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3391",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Australia? We hold a Curaçao eGaming licence, offer SSL-encrypted transactions, and feature 2000+ certified games from top providers. Here's why Aussie players choose FezBet:\n",
+                    "items": [
+                        "Curaçao eGaming licensed — certified fair play & RNG-tested games",
+                        "2000+ pokies & live games from Pragmatic Play, Evolution Gaming & NetEnt",
+                        "AU$750 welcome bonus + 200 Free Spins — no promo code required",
+                        "Fast AUD payouts via Skrill, Neteller, Visa & crypto within 24h",
+                        "SSL 256-bit encryption securing 100% of player transactions",
+                        "24\/7 live chat & email support for Australian players"
+                    ],
+                    "advantagesAfterText": "Join thousands of Aussie players enjoying secure, licensed gaming at FezBet. Our dedicated support team is available around the clock to assist you every step of the way.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "FezBet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3392",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "FezBet App",
+                    "mobileGooglePlayImageTitle": "FezBet App",
+                    "mobileIosImageTitle": "FezBet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About FezBet Casino Australia",
+                        "description1": "We are FezBet — a dynamic online casino and sportsbook proudly serving Australian players. Licensed under Curaçao eGaming, we combine 2000+ real money pokies with live dealer tables and sports betting in one seamless AUD-friendly platform.\n",
+                        "items": [
+                            "Launched as a dual casino & sportsbook platform for AU players",
+                            "Integrated Evolution Gaming live dealer studios for Aussie punters",
+                            "Added AUD-native payment options: Visa, Skrill, Neteller, crypto",
+                            "Achieved Curaçao eGaming certification with RNG-audited game library"
+                        ],
+                        "description2": "We operate under Curaçao eGaming licence with independently audited RNG across all games. Our platform runs SSL 256-bit encryption on every transaction. Australian players enjoy a fully secure, fair, and regulated gaming environment at FezBet.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3393",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continuously expand our pokies library and live casino tables for Aussie players. Our responsible gambling tools — deposit limits, self-exclusion — keep gaming fun and safe. Join FezBet today and discover real money gaming done right in Australia!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "FezBet Pokies & Live Casino for Aussies",
+                        "description": "<h2>Complete Game Portfolio at FezBet Casino Australia<\/h2>\n\n<p>At FezBet, we offer Australian players one of the most diverse real money gaming libraries available online. Our platform brings together 2000+ certified pokies, immersive live dealer tables, classic table games, and a fully integrated sportsbook — all accessible in AUD with no currency conversion required. Whether you are an Aussie player who loves spinning the reels on high-RTP video pokies or prefers the thrill of live roulette streamed from professional studios, FezBet delivers a premium gambling experience. Every game in our library is sourced from licensed providers and independently tested for fairness, ensuring that each spin, hand, or bet you place is governed by a certified random number generator.<\/p>\n\n<h3>Pokies Collection — Over 2000 Titles for Australian Players<\/h3>\n\n<p>Our pokies section is the heart of FezBet Casino Australia. We partner with the world's most trusted game developers — including Pragmatic Play, NetEnt, Microgaming, Play'n GO, and Hacksaw Gaming — to bring Aussie players the widest possible selection of slot machines. Whether you are after five-reel video pokies loaded with bonus rounds, classic three-reel fruit machines, or Megaways titles with hundreds of thousands of ways to win, you will find it all under one roof. Our most popular titles include Gates of Olympus (RTP 96.50%), Sweet Bonanza (RTP 96.48%), and The Dog House Megaways (RTP 96.55%), all available in real AUD with bets starting from AU$0.10 per spin. Progressive jackpot pokies such as Mega Moolah and Divine Fortune regularly reach six-figure prize pools, giving every Australian player a shot at life-changing wins.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Pokies (Megaways & Ways to Win):<\/strong> Titles like Bonanza Megaways (117,649 ways to win), Wolf Gold with progressive jackpot, and Book of Dead (RTP 96.21%) from Play'n GO offer Australian punters high volatility thrills with bets from AU$0.20 per spin. Bonus buy features let you enter free spins rounds directly for faster action.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic & Fruit Machine Pokies:<\/strong> For Aussie players who enjoy nostalgic gameplay, our retro fruit machine titles deliver simple mechanics combined with generous payout rates. Three-reel classics from providers such as iSoftBet and Amatic carry RTPs of 95%–97%, making them reliable choices for steady, low-variance play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Pokies:<\/strong> FezBet hosts a curated selection of progressive jackpot games including Mega Moolah by Microgaming — the world-record jackpot pokie — alongside Divine Fortune and Major Millions. These titles pool bets from all players across the network, with jackpots frequently exceeding AU$1,000,000 for Australian winners.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>New Release Pokies:<\/strong> We add new titles every week from providers like ELA Games, Relax Gaming, and Nolimit City, ensuring that Australian players always have fresh content to explore. Our homepage highlights the latest additions with detailed RTP data and volatility ratings to help you make informed choices.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mobile Pokies for Aussie Players:<\/strong> Every pokie in our library is fully optimised for mobile play on iOS and Android devices. Australian players can enjoy seamless gameplay directly in their mobile browser without downloading any app, with touch-responsive controls and perfectly adapted interfaces for 320px to full HD screens.<\/li>\n<\/ul>\n\n<h3>Live Casino — Real Dealers Streaming to Australian Players<\/h3>\n\n<p>Our live casino section brings the authentic atmosphere of a real casino directly to Australian players via high-definition video streams. Powered by Evolution Gaming — the global leader in live dealer technology — and supplemented by Pragmatic Play Live studios, we operate over 150 live tables around the clock. Every table is staffed by professional English-speaking dealers and streamed in HD from state-of-the-art studios. Australian players can interact with dealers in real time, place AUD bets, and experience the genuine excitement of a land-based casino from the comfort of their homes. Live tables are available 24\/7, with no peak-hour restrictions — meaning Aussies can play at any time that suits their schedule, whether that is morning or midnight.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> We offer European Roulette (RTP 97.30%), American Roulette, French Roulette with La Partage rule, Speed Roulette for fast-paced sessions, and Lightning Roulette featuring random multipliers up to 500x. AUD betting limits range from AU$1 to AU$5,000 per spin, catering to both recreational Australian players and high rollers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.28%), Infinite Blackjack with unlimited player seats, Lightning Blackjack with random multipliers, and VIP Blackjack with stakes up to AU$10,000 per hand. Side bets including Perfect Pairs and 21+3 are available across all tables, adding extra winning opportunities for Aussie players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for quick rounds, Baccarat Squeeze with enhanced card reveal suspense, and No Commission Baccarat. Both standard and VIP rooms are available, with AUD table limits starting from AU$1 and reaching AU$20,000 for our most exclusive live tables.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game Shows:<\/strong> Crazy Time with bonus rounds and a 20,000x maximum win multiplier, Monopoly Live combining a money wheel with a 3D bonus board, Mega Ball bingo-lottery hybrid, and Dream Catcher spin-the-wheel. These interactive formats are particularly popular among Australian players who want entertainment alongside real money prizes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker & Specialties:<\/strong> Three Card Poker, Caribbean Stud Poker with a progressive jackpot reaching AU$250,000+, Texas Hold'em Bonus, and Casino Hold'em (RTP 97.84%). Aussie players can also enjoy live Sic Bo and live Dragon Tiger for unique, fast-paced alternatives to traditional table games.<\/li>\n<\/ul>\n\n<h3>Sports Betting — The Best of Online Casino and Sportsbook Combined<\/h3>\n\n<p>What truly sets FezBet apart for Australian players is our seamless integration of online casino gaming with a fully featured sportsbook. Australian sports culture is at the heart of everything we do — we cover AFL, NRL, Cricket, Rugby Union, Football (soccer), Basketball (NBL and NBA), Tennis (including all Grand Slams), and Boxing with extensive pre-match and in-play betting markets. Aussie punters can open pokies and sports betting tabs simultaneously, switching between a live casino session and a live AFL match without interruption. Our competitive odds across 30+ sports disciplines and hundreds of daily events make FezBet a one-stop destination for every type of Australian gambler. Live in-play betting with real-time statistics and streaming options ensures you never miss a moment of the action.<\/p>\n\n<h3>Bonus Crab — FezBet's Unique Reward Feature for Aussie Players<\/h3>\n\n<p>One of the most distinctive features at FezBet Casino Australia is the <strong>Bonus Crab<\/strong> — a virtual claw machine game that gives players a real shot at exciting prizes every single day. Every first deposit you make in a day earns you one Bonus Crab play, where you control a virtual crane to grab mystery prizes including free spins, bonus credits, and real AUD cash rewards. This innovative gamification element, unique among Australian online casinos, adds an extra layer of entertainment and reward potential on top of our regular promotions. It's one of the many reasons FezBet stands out in Australia's competitive online gambling market.<\/p>\n\n<h3>Why Australian Players Trust FezBet's Game Library<\/h3>\n\n<p>Every game available at FezBet Casino Australia is sourced exclusively from licensed and regulated software providers. Our platform undergoes regular independent audits to verify RNG certification and payout accuracy, giving Australian players complete confidence in the integrity of every spin and hand. Moreover, all games display their RTP percentages and volatility ratings transparently in the game information panel, empowering Aussie punters to make informed decisions. We are committed to responsible gambling in Australia, offering deposit limits, session time reminders, reality checks, and a self-exclusion programme in line with best-practice standards for the Australian market.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "FezBet Banking & Bonuses for Australia",
+                        "description": "<h2>Banking Methods & Bonus Offers at FezBet Australia<\/h2>\n\n<p>At FezBet Casino Australia, we make depositing and withdrawing in AUD straightforward, fast, and completely secure. Australian players can choose from an extensive range of payment options — from traditional Visa and Mastercard through to e-wallets like Skrill and Neteller, bank transfers, and leading cryptocurrencies including Bitcoin. All deposits are processed instantly with zero platform fees, and withdrawals are handled with a minimum of fuss so that Aussie players receive their winnings quickly. Our banking infrastructure is protected by SSL 256-bit encryption and complies with international anti-money-laundering standards, ensuring every AUD transaction you make at FezBet is safeguarded from start to finish.<\/p>\n\n<h3>Deposit Methods for Australian Players<\/h3>\n\n<p>Funding your FezBet account in AUD is quick and easy. We support every major payment method used by Australian players, from bank cards to digital wallets and cryptocurrency. Deposits are credited to your account instantly in most cases, allowing you to start playing your favourite pokies and live dealer games without delay. The minimum deposit at FezBet Casino Australia is just AU$10 on most methods, keeping the barrier to entry low for all Aussie players. There are no deposit fees charged by FezBet, though your bank or e-wallet provider may apply their own charges.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #c92828;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Time<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1c1c24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #25252f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #25252f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin \/ Crypto<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">~10 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–3 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$20<\/td>\n    <\/tr>\n    <tr style=\"background-color: #25252f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>ecoPayz<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1c24;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>MiFinity<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #25252f;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>AstroPay<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$10<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Withdrawals — How Fast Can Australian Players Cash Out?<\/h3>\n\n<p>Withdrawing your winnings at FezBet Casino Australia is designed to be as smooth and fast as possible for Aussie players. E-wallet withdrawals to Skrill, Neteller, MiFinity, and ecoPayz are processed within 24 hours of verification, making them the fastest cash-out option for Australian players. Card withdrawals to Visa and Mastercard typically take 1–3 business days, while bank transfers may require 3–5 business days depending on your Australian financial institution. The maximum withdrawal per transaction is AU$500, with a monthly cap of AU$10,000 — ensuring consistent, reliable access to your funds. All withdrawal requests require standard KYC identity verification including a valid Australian ID and proof of address, in line with Curaçao eGaming licence requirements.<\/p>\n\n<h3>Welcome Bonus — AU$750 + 200 Free Spins for New Australian Players<\/h3>\n\n<p>New Australian players at FezBet are welcomed with one of the most generous bonus packages in the country. Our welcome offer provides a <strong>100% deposit match bonus up to AU$750<\/strong> combined with <strong>200 Free Spins<\/strong> on selected pokies — and no promo code is required to activate it. The minimum qualifying deposit is just AU$30, making the welcome bonus accessible to every budget. Wagering requirements are 35x the combined deposit and bonus amount, which must be completed within 10 days of activation. Slots contribute 100% towards clearing the wagering requirement, while live table games such as blackjack (10%) and roulette (10%) contribute at lower rates. This is one of the highest-value welcome packages available at any Australian online casino currently accepting AUD deposits.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Welcome Bonus Details:<\/strong> 100% deposit match up to AU$750 plus 200 Free Spins. Minimum deposit AU$30. Wagering 35x (bonus + deposit). Valid 10 days. No promo code needed. Free Spins wagering 40x. Max bet during wagering: AU$5 per spin\/hand.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Crab Daily Reward:<\/strong> Each first daily deposit earns you one play on the virtual Bonus Crab claw machine — FezBet's signature reward feature exclusive to our platform. Prizes include AUD cash credits, free spins, and bonus funds. Australian players enjoy this daily gamification element as part of every session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Cashback — 15% up to AU$3,000:<\/strong> Every week, Australian players receive 15% cashback on net losses, up to AU$3,000. This promotion is calculated automatically and credited to your account every Monday, giving Aussie punters a reliable safety net and extended playing time even after a tough week at the tables.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Reload Bonus — Up to 50 Free Spins:<\/strong> Make a deposit between Monday and Thursday to claim weekly reload free spins on selected pokies. This recurring promotion ensures that regular Australian players are consistently rewarded for their loyalty without needing to meet complex conditions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette Run Tournament — Win AU$8,000:<\/strong> Place a minimum bet of AU$1 on eligible games to climb the Roulette Run leaderboard. The top-ranked Australian players share a prize pool with the leader taking AU$8,000 in real cash rewards. This weekly tournament adds a competitive edge to every gaming session at FezBet.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Drops & Wins Live Casino — AU$500,000 Monthly Prize Pool:<\/strong> FezBet participates in Pragmatic Play's globally renowned Drops & Wins promotion for live casino. Australian players can win daily and weekly cash prizes across Blackjack, Roulette, and Game Show titles, with a total monthly prize pool of AU$500,000 distributed among thousands of winners.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Sunday Spins — Free Spins on ELA Games:<\/strong> Play ELA Games titles over the weekend to qualify for Sunday Spins, earning up to 100 Free Spins simply for playing your favourite pokies. No deposit is required beyond your normal gaming activity, making this one of the easiest ongoing promotions for Aussie players to take advantage of.<\/li>\n<\/ul>\n\n<h3>VIP & Loyalty Programme at FezBet Australia<\/h3>\n\n<p>FezBet rewards our most loyal Australian players through a structured VIP programme with escalating benefits at every level. As you progress through the VIP tiers — from Bronze through Silver, Gold, Platinum, Expert, Master, to the exclusive King level — your benefits grow substantially. VIP members enjoy higher monthly withdrawal limits (up to AU$20,000 at the King tier), dedicated account managers, priority processing of withdrawal requests, exclusive AUD reload bonuses, and personalised cashback rates up to 15%. The King level VIP status also unlocks invitations to exclusive events and bespoke promotions tailored specifically for our most valued Aussie high rollers. Every real money wager you place at FezBet — whether on pokies, live dealer tables, or sports betting markets — contributes to your VIP progress, ensuring every Australian player is recognised and rewarded for their loyalty.<\/p>\n\n<h3>Responsible Gambling Tools for Australian Players<\/h3>\n\n<p>At FezBet, we take responsible gambling seriously for our Australian player base. We provide a comprehensive suite of player-protection tools including daily, weekly, and monthly deposit limits, session time reminders, reality checks, cooling-off periods, and a formal self-exclusion programme. Australian players can access all responsible gambling controls directly from their account settings at any time. We also signpost Aussie players to support organisations including Gambling Help Online (1800 858 858) and Lifeline Australia (13 11 14) within our responsible gambling resources page. FezBet is committed to ensuring that gaming remains an enjoyable, controlled experience for every Australian player who chooses our platform.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is FezBet Casino licensed and safe for Australian players?",
+                            "answer": "Yes, FezBet Casino holds a Curaçao eGaming licence and uses SSL 256-bit encryption to protect all player data and transactions. All games are certified by independent auditors using RNG testing, ensuring fair play for every Australian player. Our platform complies with international responsible gambling standards.\n"
+                        },
+                        {
+                            "title": "How do I claim the AU$750 welcome bonus at FezBet?",
+                            "answer": "Register your account, make a minimum deposit of AU$30 using any supported payment method, and your 100% bonus up to AU$750 plus 200 Free Spins credits automatically — no promo code required. Wagering requirement is 35x the deposit and bonus combined, completed within 10 days of activation.\n"
+                        },
+                        {
+                            "title": "What payment methods are available for Australian players?",
+                            "answer": "Australian players at FezBet can deposit and withdraw using Visa, Mastercard, Skrill, Neteller, MiFinity, ecoPayz, AstroPay, Paysafecard, Bank Transfer, and cryptocurrencies including Bitcoin. All AUD deposits are instant and fee-free on our side. E-wallet withdrawals process within 24 hours after KYC verification is complete.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at FezBet Casino Australia?",
+                            "answer": "E-wallet withdrawals (Skrill, Neteller, ecoPayz) are processed within 24 hours. Card withdrawals to Visa and Mastercard take 1–3 business days, while Australian bank transfers require 3–5 business days. Maximum withdrawal is AU$500 per transaction with a monthly limit of AU$10,000. KYC verification must be completed before your first cash-out.\n"
+                        },
+                        {
+                            "title": "Can I play FezBet Casino games on my mobile in Australia?",
+                            "answer": "Yes, every game at FezBet is fully optimised for mobile play on iOS and Android devices without downloading an app. Australian players can enjoy 2000+ pokies, live dealer tables, and sports betting directly in their mobile browser. Touch controls and adaptive layouts work seamlessly on all screen sizes from 320px up.\n"
+                        },
+                        {
+                            "title": "What is the Bonus Crab feature at FezBet Casino?",
+                            "answer": "The Bonus Crab is FezBet's unique daily reward feature — a virtual claw machine game you play every time you make your first deposit of the day. You control the crane to grab mystery prizes including free spins, AUD bonus credits, and real cash rewards. It is available exclusively at FezBet and is one of our most popular features among Australian players.\n"
+                        },
+                        {
+                            "title": "Does FezBet Casino offer live dealer games for Aussie players?",
+                            "answer": "Absolutely — our live casino section features 150+ tables powered by Evolution Gaming and Pragmatic Play Live, streaming 24\/7 in HD. Australian players can enjoy live roulette, blackjack, baccarat, poker, and game shows like Crazy Time and Monopoly Live with professional English-speaking dealers and AUD betting limits from AU$1 per hand.\n"
+                        },
+                        {
+                            "title": "How do I contact FezBet customer support in Australia?",
+                            "answer": "You can reach our support team 24\/7 via the live chat button on our website or by emailing our dedicated Australian support address. Our agents respond to live chat inquiries in under 2 minutes on average and can assist with account queries, payments, bonuses, technical issues, and responsible gambling requests in English.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

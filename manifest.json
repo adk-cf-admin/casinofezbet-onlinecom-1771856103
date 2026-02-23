@@ -1,0 +1,19 @@
+{
+  "name": "FezBet",
+  "short_name": "FezBet",
+  "theme_color": "",
+  "background_color": "#2D2D32",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1771855701-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
